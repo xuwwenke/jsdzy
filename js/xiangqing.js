@@ -30,24 +30,24 @@ var right=document.getElementById('right');
 right.onmouseover=function(){
 	right.className="imggg";
 	left.className="imgg";
-	img.src="F:/Web大作业/img/pp1.jpeg";
+	img.src="../img/pp1.jpeg";
 }
 left.onmouseover=function(){
 	left.className="imggg";
 	right.className="imgg";
-	img.src="F:/Web大作业/img/pp0.jpeg";
+	img.src="../img/pp0.jpeg";
 }
 var left1=document.getElementById('left1');
 var right1=document.getElementById('right1');
 left1.onclick=function(){
 	left.className="imggg";
 	right.className="imgg";
-	img.src="F:/Web大作业/img/pp0.jpeg";
+	img.src="../img/pp0.jpeg";
 }
 right1.onclick=function(){
 	right.className="imggg";
 	left.className="imgg";
-	img.src="F:/Web大作业/img/pp1.jpeg";
+	img.src="../img/pp1.jpeg";
 }
 
 var img=document.getElementById('img');
@@ -88,13 +88,13 @@ var  kuang =document.getElementById('kuang');
 var  kuangss1 =document.getElementById('kuangss1');
 var  ml =document.getElementById('ml');
 ml.innerHTML="'150ml'";
-kuang.style.backgroundImage="url('F:/Web大作业/img/duigou.png')";
+kuang.style.backgroundImage="url('../img/duigou.png')";
 kuang.style.border="1px solid #ff0853"
 kuang.style.backgroundRepeat="no-repeat";
 kuang.style.backgroundPosition="60px 18px";
 kuang.onclick=function(){
  	ml.innerHTML="'150ml'";
- 	kuang.style.backgroundImage="url('F:/Web大作业/img/duigou.png')";
+ 	kuang.style.backgroundImage="url('../img/duigou.png')";
  	kuang.style.border="1px solid #ff0853"
  	kuangss1.style.border="";
  	kuang.style.backgroundRepeat="no-repeat";
@@ -104,7 +104,7 @@ kuang.onclick=function(){
 }
 kuangss1.onclick=function(){
 	ml.innerHTML="'200ml'";
-	kuangss1.style.backgroundImage="url('F:/Web大作业/img/duigou.png')";
+	kuangss1.style.backgroundImage="url('../img/duigou.png')";
 	kuangss1.style.border="1px solid #ff0853"
 	kuang.style.border="";
 	kuangss1.style.backgroundRepeat="no-repeat";

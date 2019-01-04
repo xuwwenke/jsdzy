@@ -54,7 +54,7 @@ ul,li,ol{
 .bb1{
 	width:19px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/common_min.png') 0 -116px no-repeat;
+	background:url('../img/common_min.png') 0 -116px no-repeat;
 	float: left;
 	margin-top: 10px;
 }
@@ -67,21 +67,21 @@ ul,li,ol{
 .bb2{
 	width:15px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/dingdan.jpg') no-repeat;
+	background:url('../img/dingdan.jpg') no-repeat;
 	float: left;
 	margin-top: 9px;
 }
 .bb3{
 	width:10px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/tp-my-phone.png') no-repeat;
+	background:url('../img/tp-my-phone.png') no-repeat;
 	float: left;
 	margin-top: 9px;
 }
 .bb4{
 	width:19px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/gouwuche.jpg') no-repeat;
+	background:url('../img/gouwuche.jpg') no-repeat;
 	float: left;
 	margin-top: 8px;
 }
@@ -165,7 +165,7 @@ ul,li,ol{
 	height: 17px;
 	float: left;
 	margin: 7px 33px 0 33px;
-	background: url('F:/Web大作业/img/common_min.png') 0 -97px;
+	background: url('../img/common_min.png') 0 -97px;
 }
 .j p{
 	font-size: 12px;
@@ -178,7 +178,7 @@ ul,li,ol{
 	height: 17px;
 	float: left;
 	margin: 7px 34px 0 34px;
-	background: url('F:/Web大作业/img/common_min.png') 0 -116px;
+	background: url('../img/common_min.png') 0 -116px;
 }
 .m{
 	width: 85px;
@@ -192,7 +192,7 @@ ul,li,ol{
 	height: 19px;
 	float: left;
 	margin: 15px 0 11px 5px;
-	background: url('F:/Web大作业/img/common_min.png') 0 -128px;
+	background: url('../img/common_min.png') 0 -128px;
 }
 .m p{
 	color: white;
@@ -202,7 +202,7 @@ ul,li,ol{
 .n{
 	width:19px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/common_min.png') 0 -30px;
+	background:url('../img/common_min.png') 0 -30px;
 	float: left;
 	margin-top: 5px;
 	margin-right: 23px;
@@ -210,7 +210,7 @@ ul,li,ol{
 .n1{
 	width:19px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/common_min.png') 0 -51px;
+	background:url('../img/common_min.png') 0 -51px;
 	float: left;
 	margin-top: 5px;
 	margin-right: 23px;
@@ -218,7 +218,7 @@ ul,li,ol{
 .n2{
 	width:19px; 
 	height:19px; 
-	background:url('F:/Web大作业/img/common_min.png') 0 -73px;
+	background:url('../img/common_min.png') 0 -73px;
 	float: left;
 	margin-top: 5px;
 	margin-right: 23px;
@@ -238,7 +238,7 @@ ul,li,ol{
 	font-size: 12px;
 	padding-left: 9px;
 	padding-right: 9px;
-	background: url('F:/Web大作业/img/xiaotiao.png') no-repeat right center;
+	background: url('../img/xiaotiao.png') no-repeat right center;
 }
 .o ul li:last-child{
 	background-image: none;
@@ -261,7 +261,7 @@ ul,li,ol{
 	color: red;
 }
 .q{
-	background: url('F:/Web大作业/img/hot.gif') no-repeat right top;
+	background: url('../img/hot.gif') no-repeat right top;
 }
 .black{
 	height: 40px;
@@ -272,7 +272,7 @@ ul,li,ol{
 .black1{
 	width: 1190px;
 	margin: 0 auto;
-	background: url('F:/Web大作业/img/ff_03.jpg') no-repeat center right;
+	background: url('../img/ff_03.jpg') no-repeat center right;
 	height: 40px;
 }
 .black2{
@@ -385,7 +385,7 @@ ul,li,ol{
 	float: left;
 	margin-left: 55px;
 	margin-top: 15px;
-	background: url('F:/Web大作业/img/dd_08.jpg')no-repeat center center;
+	background: url('../img/dd_08.jpg')no-repeat center center;
 }
 .ss3 p{
 	padding-left:20px;
@@ -554,7 +554,7 @@ ul,li,ol{
 	width: 175px;
 	height: 180px;
 	float: left;
-	background: url('F:/Web大作业/img/loginB.jpg') no-repeat;
+	background: url('../img/loginB.jpg') no-repeat;
 }
 .tt2{
 	width: 134px;
@@ -575,7 +575,7 @@ ul,li,ol{
 	height: 180px;
 	width: 211px;
 	float: left;
-	background: url('F:/Web大作业/img/erweima.jpg') no-repeat center center;
+	background: url('') no-repeat center center;
 }
 /* 弹框 */
 #tan{
@@ -650,7 +650,7 @@ ul,li,ol{
 	padding-left: 14px;
 	line-height: 40px;
 	padding-right: 14px;
-	background: url('F:/Web大作业/img/xiaotiao.png') no-repeat right center;
+	background: url('../img/xiaotiao.png') no-repeat right center;
 }
 .uuu ul li:last-child{
 	background-image: none;
