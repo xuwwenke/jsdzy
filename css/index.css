@@ -1,0 +1,724 @@
+*{
+	margin: 0;
+	padding:0;
+}
+body{
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+ul,li,ol{
+	list-style: none;
+}
+.big{
+	height: 175px;
+	margin: auto;
+	width: 1508px;
+	border-bottom: 1px solid red;
+}
+.a{
+	width: 1350px;
+	height: 132px;
+	margin-left: 79px;
+	background: white;
+	z-index: 12;
+}
+.aa{
+	width: 1350px;
+	height: 30px;
+	float: left;
+}
+.b{
+	width: 810px;
+	height: 30px;
+	float: right;
+	margin-right: 85px;
+}
+.b a{
+	font-size: 13px;
+	line-height: 30px;
+}
+.bb{
+	margin-right: 18px;
+	float: left;
+}
+.bb1{
+	width:19px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/common_min.png') 0 -116px no-repeat;
+	float: left;
+	margin-top: 10px;
+}
+.bbb1{
+	float: left;
+	width: 26px;
+	height: 19px;
+	margin-right: 21px;
+}
+.bb2{
+	width:15px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/dingdan.jpg') no-repeat;
+	float: left;
+	margin-top: 9px;
+}
+.bb3{
+	width:10px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/tp-my-phone.png') no-repeat;
+	float: left;
+	margin-top: 9px;
+}
+.bb4{
+	width:19px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/gouwuche.jpg') no-repeat;
+	float: left;
+	margin-top: 8px;
+}
+.bbb2{
+	float: left;
+	width: 53px;
+	height: 19px;
+	margin-right: 21px;
+}
+.bbb3{
+	float: left;
+	width: 39px;
+	height: 19px;
+	margin-right: 21px;
+}
+.bbb4{
+	float: left;
+	width: 10px;
+	height: 19px;
+	margin-top: 2px;
+}
+.bbb4 a{
+	color: red;
+}
+.c{
+	height: 30px;
+	width: 85px;
+	float: left;
+	padding-left: 80px;
+	font-size: 12px;
+	color: #9a9791;
+	line-height: 30px;
+}
+.d{
+	width: 175px;
+	height: 102px;
+	float: left;
+	margin-left: 80px;
+}
+.d img{
+	float: left;
+	margin-top: 15px;
+}
+.e{
+	height: 40px;
+	width: 175px;
+	float: left;
+	margin-top: 3px;
+	margin-left: 159px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
+	background: red;
+}
+.f{
+	width: 588px;
+	height: 43px;
+	float: left;
+	margin:25px 0 0 75px;
+}
+.g{
+	width: 500px;
+	height: 41px;
+	float: left;
+	border:2px solid red;
+	color: #8a88b6
+}
+.h{
+	width: 84px;
+	height: 45px;
+	float: left;
+	background: red;
+	border:2px red;
+	color: white;
+	font-size: 17px;
+}
+.i{
+	width: 261px;
+	height: 45px;
+	float: left;
+	margin:25px 0 0 90px;
+	background: white;
+}
+.j{
+	width: 85px;
+	height: 45px;
+	float: left;
+	border:1px solid #e6e5e2;
+}
+.k{
+	width: 19px;
+	height: 17px;
+	float: left;
+	margin: 7px 33px 0 33px;
+	background: url('F:/Web大作业/img/common_min.png') 0 -97px;
+}
+.j p{
+	font-size: 12px;
+	text-align: center;
+	color: #9a9791;
+	margin-top: 27px;
+}
+.l{
+	width: 19px;
+	height: 17px;
+	float: left;
+	margin: 7px 34px 0 34px;
+	background: url('F:/Web大作业/img/common_min.png') 0 -116px;
+}
+.m{
+	width: 85px;
+	height: 45px;
+	float: left;
+	border:1px solid #e6e5e2;
+	background: red;
+}
+.mm{
+	width: 19px;
+	height: 19px;
+	float: left;
+	margin: 15px 0 11px 5px;
+	background: url('F:/Web大作业/img/common_min.png') 0 -128px;
+}
+.m p{
+	color: white;
+	margin: 16px 5px 7px 26px;
+	font-size: 13.5px;
+}
+.n{
+	width:19px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/common_min.png') 0 -30px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 23px;
+}
+.n1{
+	width:19px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/common_min.png') 0 -51px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 23px;
+}
+.n2{
+	width:19px; 
+	height:19px; 
+	background:url('F:/Web大作业/img/common_min.png') 0 -73px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 23px;
+}
+.o{
+	width: 588px;
+	height: 30px;
+	float: left;
+	margin:0 0 0 75px;
+}
+.o li{
+	float: left;
+	line-height: 30px;
+}
+.o ul li{
+	float: left;
+	font-size: 12px;
+	padding-left: 9px;
+	padding-right: 9px;
+	background: url('F:/Web大作业/img/xiaotiao.png') no-repeat right center;
+}
+.o ul li:last-child{
+	background-image: none;
+}
+.p{
+	width: 750px;
+	height: 40px;
+	float: left;
+}
+.p ul li{
+	float: left;
+	padding-left: 43px;
+	padding-right: 10px;
+	line-height: 40px;
+	color: black;
+}
+.p ul li:last-child{
+	padding-right: 20px;
+}
+.p ul li a:hover{
+	color: red;
+}
+.q{
+	background: url('F:/Web大作业/img/hot.gif') no-repeat right top;
+}
+.bigr{
+	height: 550px;
+	margin: auto;
+}
+.r{
+	width: 1190px;
+	height: 550px;
+	margin: 0 auto;
+}
+.rrm{
+	width: 6432px;
+	height: 367px;
+	float: left;
+	/* width: 6432px;
+	left: -804px; */
+}
+
+
+
+
+
+.rr{
+	width: 175px;
+	float: left;
+	height: 550px;
+}
+.rr1{
+	width: 211px;
+	float: right;
+	height: 550px;
+}
+.rf{
+	width: 211px;
+	height: 45px;
+	float: left;
+	background: white;
+	border-top: 1px solid red;
+}
+.rf img{
+	float: left;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.rf p{
+	float: left;
+	padding-left: 8px;
+	padding-right: 75px;
+	line-height: 45px;
+	font-size: 13px;
+	color: red;
+}
+#box1{
+	height: 320px;
+	width: 211px;
+	overflow: hidden;
+}
+.rg{
+	width: 211px;
+	height: 320px;
+	float: left;
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+}
+.rg ul li{
+	margin-top: 8px;
+	color: red;
+	font-size: 15px;
+}
+.rg1{
+	width: 211px;
+	height: 29px;
+	float: left;
+}
+.rg1 p{
+	line-height: 29px;
+	padding-left: 15px;
+	color: red;
+	font-size: 12px;
+}
+.rh{
+	height: 30px;
+	width: 211px;
+	float: left;
+}
+.rh img{
+	margin-left: 18px;
+	margin-top: 7px;
+	float: left;
+}
+.rh p{
+	float: left;
+	line-height: 30px;
+	padding-left: 15px;
+	font-size: 12px;
+}
+.rh span{
+	float: left;
+	color: red;
+	font-size: 12px;
+	padding-left: 15px;
+	line-height: 30px;
+}
+.ri{
+	width: 211px;
+	height: 20px;
+	float: left;
+}
+.ri select{
+	margin-top: 5px;
+	margin-left: 17px;
+	width: 60px;
+	float: left;
+}
+#ps{
+	float: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	font-size: 12px;
+	color: red;
+}
+.rii{
+	width: 14px;
+	height: 14px;
+	float: left;
+	background: url('F:/Web大作业/img/dd_08.jpg') no-repeat center center;
+	margin-top: 7px;
+	margin-left: 5px;
+}
+.rj{
+	width: 211px;
+	height: 35px;
+	float: left;
+}
+.rj input{
+	width: 176px;
+	height: 30px;
+	margin-left: 17px;
+	margin-top: 10px;
+	background: red;
+	border:1px solid red;
+	border-radius: 5px;
+	color: white;
+
+}
+
+
+.rr2{
+	height: 550px;
+	width: 804px;
+	float: left;
+	background: green;
+	overflow: hidden;
+}
+.rr3{
+	height: 183px;
+	width: 201px;
+	float: left;
+}
+.rrr{
+	float: left;
+	width: 175px;
+	height: 423px;
+	border-bottom: 1px solid red;
+}
+.rrr p{
+	color: #ff4d4b;
+	font-size: 23px;
+	padding-top: 25px;
+}
+.rrr1{
+	float: left;
+	width: 25px;
+	height: 423px;
+	background: black;
+}
+.rrr2{
+	width: 40px;
+	float: left;
+	height: 423px;
+}
+.rrr2 ul li{
+	float: left;
+	padding: 10px 0 5px 8px;
+	font-size: 13px;
+}
+.rrr3{
+	width: 34px;
+	float: left;
+	height: 423px;
+}
+.rrr3 ul li{
+	float: left;
+	padding: 10px 0 5px 5px;
+	font-size: 13px;
+}
+.rrr4{
+	height: 423px;
+	width: 41px;
+	float: left;
+}
+.rrr4 ul li{
+	float: left;
+	padding: 10px 0 5px 8px;
+	font-size: 13px;
+}
+.s{
+	float: left;
+	width: 175px;
+	height: 127px;
+}
+.ss{
+	float: left;
+	width: 175px;
+	height: 42px;
+}
+.ss img{
+	float: left;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.ss li{
+	float: left;
+	padding: 13px 0 12px 8px;
+	font-size: 13px;
+	color: #855d38;
+}
+.t{
+	height: 180px;
+	margin: 0 auto;
+}
+.tt{
+	height: 180px;
+	width: 1190px;
+	margin: 0 auto;
+	background: #f8f7f6;
+}
+.tt1{
+	width: 175px;
+	height: 180px;
+	float: left;
+	background: url('F:/Web大作业/img/loginB.jpg') no-repeat;
+}
+.tt2{
+	width: 134px;
+	height: 180px;
+	border-bottom: 1px solid #ebeae8;
+	float: left;
+}
+.tt2 p{
+	padding-top: 17px;
+	padding-left: 65px;
+}
+.tt2 ul li{
+	padding-top: 13px;
+	padding-left: 65px;
+	font-size: 12px;
+}
+.tt3{
+	height: 180px;
+	width: 211px;
+	float: left;
+	background: url('F:/Web大作业/img/erweima.jpg') no-repeat center center;
+}
+.u{
+	height: 163px;
+	margin: 0 auto;
+}
+.uu{
+	height: 163px;
+	width: 1190px;
+	margin: 0 auto;
+	background: #f8f7f6;
+}
+.uuu{
+	height: 40px;
+	width: 688px;
+	margin: 0 auto;
+}
+.uuu ul li{
+	float: left;
+	font-size: 12px;
+	padding-left: 14px;
+	line-height: 40px;
+	padding-right: 14px;
+	background: url('F:/Web大作业/img/xiaotiao.png') no-repeat right center;
+}
+.uuu ul li:last-child{
+	background-image: none;
+}
+.v{
+	width: 780px;
+	height: 57px;
+	float: left;
+	margin-left: 202px;
+}
+.v img{
+	float: left;
+}
+.w{
+	width: 1190px;
+	height: 70px;
+	margin: 0 auto;
+}
+.w p{
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 11px;
+	color: #9a9791;
+}
+
+/* 横轮播 */
+.box{
+	width: 804px;
+	height: 367px;
+	border: 1px solid red;
+	position: relative;
+	overflow: hidden;
+}
+.slider{
+	width: 6432px;
+	position: absolute;
+	left: -804px;
+}
+.slide{
+	width: 804px;
+	overflow: hidden;
+	float: left;
+}
+.slider>span{
+	display: block;
+	width: 30px;
+	height: 50px;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+	top: 175px;
+	line-height: 50px;
+	background: rgb(255,0,0);
+	font-size: 30px;
+	position: absolute;
+	display: none;
+	opacity: 0;
+}
+#left{
+	margin-left: 30px;
+	float: left;
+	line-height: 367px;
+}
+#right{
+	margin-right: 30px;
+	float: right;
+	line-height: 367px;
+}
+.nav{
+	position: absolute;
+	left: 280px;
+	bottom: 20px;
+}
+.nav>li{
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	cursor: pointer;
+	margin: 0 10px;
+	border-radius: 50%;
+}
+.nav .active{
+	background: red;
+}
+
+
+
+.fix{
+	position: fixed;
+	right: 10px;
+	top: 15%;
+}
+fix li{
+	width: 35px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	margin-bottom: 5px;
+	background-color: #ccc;
+}
+.div{
+	width: 1200px;
+	height: 600px;
+	margin: 20px auto;
+	background-color: #ddd;
+	font-size: 50px;
+	text-align: center;
+	line-height: 400px;
+}
+.as{
+	height: 164px;
+	width: 130px;
+	background: #ff9260;
+}
+.aas{
+    height: 140px;
+    width: 130px;
+    background: #ff9260;
+}
+.assp{
+    font-size:12px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.aas1{
+    width: 130px;
+    height: 105px;
+}
+.aas1 img{
+	float: left;
+}
+#div1{
+    position: relative;
+    left: 100px;
+}
+ #div2{
+    position: relative;
+    left: 100px;
+}
+#div3{
+    position: relative;
+    left: 100px;
+}
+#div4{
+    position: relative;
+    left: 100px;
+}
+#div6{
+    position: relative;
+    left: 100px;
+}
+
+
+
+.ban{
+	width: 60px;
+	height: 60px;
+	background: url('F:/Web大作业/img/btn.gif') 0 0 no-repeat;
+	margin-top: 150px;
+}
+.ban1{
+	width: 60px;
+	height: 60px;
+	background: url('F:/Web大作业/img/btn.gif') 0 -60px no-repeat;
+	margin-top: 150px;
+}
