@@ -265,7 +265,7 @@ ul,li,ol{
 }
 .black{
 	height: 40px;
-	width: 1190px;
+	width: 1350px;
 	background: black;
 	margin: 0 auto;
 }
@@ -305,6 +305,9 @@ ul,li,ol{
 }
 .r{
 	height: 38px;
+	margin:0 auto;
+	background: #f6f5f4;
+	width: 1350px;
 }
 .rr{
 	height: 38px;
@@ -319,11 +322,15 @@ ul,li,ol{
 }
 .s{
 	height: 635px;
+	margin:0 auto;
+	width: 1350px;
+	background: #f6f5f4;
 }
 .ss{
 	height: 635px;
 	margin: 0 auto;
 	width: 1190px;
+	background: white;
 }
 .ss1{
 	height: 408px;
@@ -534,6 +541,9 @@ ul,li,ol{
 }
 .ta{
 	height: 105px;
+	width: 1350px;
+	margin:0 auto;
+	background: #f6f5f4;
 }
 .taa{
 	height: 105px;
@@ -544,10 +554,13 @@ ul,li,ol{
 .t{
 	height: 180px;
 	margin: 0 auto;
+	width: 1350px;
 }
 .tt{
 	height: 180px;
 	width: 1190px;
+	background-color: white;
+	background: url('../img/erweima.jpg') no-repeat right center;
 	margin: 0 auto;
 }
 .tt1{
@@ -561,6 +574,7 @@ ul,li,ol{
 	height: 180px;
 	border-bottom: 1px solid #ebeae8;
 	float: left;
+	background: white;
 }
 .tt2 p{
 	padding-top: 17px;
